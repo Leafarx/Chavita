@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/images/buttons/iBoton.svgz</file>
+        <file>qml/ChavitaCore/Button.qml</file>
+        <file>qml/ChavitaCore/javascript.js</file>
+        <file>qml/images/buttons/splashes/iMancha15.png</file>
+        <file>qml/images/buttons/splashes/iMancha0.png</file>
+        <file>qml/images/buttons/splashes/iMancha1.png</file>
+        <file>qml/images/buttons/splashes/iMancha2.png</file>
+        <file>qml/images/buttons/splashes/iMancha3.png</file>
+        <file>qml/images/buttons/splashes/iMancha4.png</file>
+        <file>qml/images/buttons/splashes/iMancha5.png</file>
+        <file>qml/images/buttons/splashes/iMancha6.png</file>
+        <file>qml/images/buttons/splashes/iMancha7.png</file>
+        <file>qml/images/buttons/splashes/iMancha8.png</file>
+        <file>qml/images/buttons/splashes/iMancha9.png</file>
+        <file>qml/images/buttons/splashes/iMancha10.png</file>
+        <file>qml/images/buttons/splashes/iMancha11.png</file>
+        <file>qml/images/buttons/splashes/iMancha12.png</file>
+        <file>qml/images/buttons/splashes/iMancha13.png</file>
+        <file>qml/images/buttons/splashes/iMancha14.png</file>
+        <file>qml/images/wallpapers/iFondo1.png</file>
+    </qresource>
+</RCC>
