@@ -5,7 +5,7 @@ import "ChavitaCore/javascript.js" as JSfile
 Rectangle {
     id: page
     color: "#000000"
-
+//**
     Image {    
         id: imageHorizontal
         width: parent.width
@@ -38,7 +38,7 @@ Rectangle {
 
         Button {
             id: acercaButton
-            label: qsTr("Acerca de...")
+            label: qsTr("Ande de...")
             width: page.width < page.height ? page.width / 2 : page.height / 2
             height: page.width < page.height ? page.width / 5 : page.height / 5
         }
